@@ -112,7 +112,7 @@
             // 
             // pb_yes
             // 
-            this.pb_yes.BackColor = System.Drawing.Color.LimeGreen;
+            this.pb_yes.BackColor = System.Drawing.Color.Yellow;
             this.pb_yes.Location = new System.Drawing.Point(657, 430);
             this.pb_yes.Margin = new System.Windows.Forms.Padding(5, 4, 5, 4);
             this.pb_yes.Name = "pb_yes";
