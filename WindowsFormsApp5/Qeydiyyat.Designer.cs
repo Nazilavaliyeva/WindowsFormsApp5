@@ -73,7 +73,7 @@
             // lbldogumq
             // 
             this.lbldogumq.AutoSize = true;
-            this.lbldogumq.BackColor = System.Drawing.SystemColors.MenuHighlight;
+            this.lbldogumq.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(41)))), ((int)(((byte)(134)))), ((int)(((byte)(204)))));
             this.lbldogumq.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.lbldogumq.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbldogumq.ForeColor = System.Drawing.Color.Black;
